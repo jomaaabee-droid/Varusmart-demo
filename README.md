@@ -17,4 +17,4 @@ Dev-servern lyssnar på [http://127.0.0.1:43123/Varusmart-demo/](http://127.0.0.
 
 ## Publicering
 
-`.github/workflows/pages.yml` bygger och publicerar `dist` med GitHub Actions vid push till `main`. Källa för Pages ska vara **GitHub Actions** (Settings → Pages → Source).
+`.github/workflows/pages.yml` bygger och publicerar `dist` med GitHub Actions vid push till `main`. Pages-källan är **GitHub Actions**.
